@@ -1,0 +1,5 @@
+com/example/demo/RestApplication.class
+com/example/demo/ejb/Calculator.class
+com/example/demo/rest/HelloWorldEndpoint.class
+com/example/demo/InsufficientFundsException.class
+com/example/demo/ejb/Account.class
